@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WisnuArdhi28/WisnuArdhi28/main/1635139741537-img7084.webp"><br>
+  <img src="https://github.com/WisnuArdhi28/WisnuArdhi28/raw/main/doc_2021-11-25_14-09-17.gif"><br>
 </p>
 
